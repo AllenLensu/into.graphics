@@ -9,6 +9,7 @@ class intrographics : public QWidget
 
 public:
 	intrographics(QWidget *parent = Q_NULLPTR);
+	int tmp;
 
 private:
 	Ui::intrographicsClass ui;
